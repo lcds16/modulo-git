@@ -16,6 +16,8 @@ import re
 
 #OUTRA BRANCH _ REPETINDO O EXERCICIO
 
+import re
+
 def mostrar_mensagem_inicial():
     print("BEM VINDA AO GIT \\O//")
 
@@ -35,4 +37,4 @@ def gerar_relatorio_final(funcoes_concluidas):
     total = len(funcoes_concluidas)
     return f"Desafio concluído! {total} funções implementadas no projeto."
 
-#bla
+
